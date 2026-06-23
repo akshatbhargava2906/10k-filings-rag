@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets (large local data, not pushed to GitHub)
+datasets--winterForestStump--10-K_sec_filings/
+*.parquet
+*.arrow
